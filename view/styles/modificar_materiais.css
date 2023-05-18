@@ -1,0 +1,13 @@
+.form-container{
+    margin: auto;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+.form-container label{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.form-container button{
+    margin-top: 20px;
+}

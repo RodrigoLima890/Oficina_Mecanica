@@ -1,0 +1,14 @@
+.cadastro{
+    width: 400px;
+    margin: auto;
+}
+.cadastro h2{
+    margin: 20px;
+}
+.quantidade{
+    width: 45px;
+    height: 30px;
+}
+.quantidade form{
+    margin-right: 20px;
+}

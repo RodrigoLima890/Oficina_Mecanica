@@ -1,0 +1,13 @@
+.cadastro_material{
+    margin: auto;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 450px;
+    height: 300px;
+    font-weight: bold;
+}
+.cadastro_material label{
+    margin-bottom: 10px;
+}

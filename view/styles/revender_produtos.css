@@ -1,0 +1,9 @@
+.table-container{
+    margin: auto;
+    margin-top: 50px;
+    width: 850px;
+    border: 1px solid black;
+}
+.form-quantidade{
+    width: 50px;
+}
